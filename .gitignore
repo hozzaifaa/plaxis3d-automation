@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 *.env
+ignored_code.ipynb
 
 # Jupyter
 .ipynb_checkpoints/
