@@ -1,8 +1,3 @@
-Here’s a full and polished `README.md` tailored to your PLAXIS 3D automation project, with all three tutorials (`00`, `01`, `02`) clearly indexed:
-
----
-
-````markdown
 # PLAXIS 3D Automation with Python 🏗️💻
 
 This repository contains a collection of Jupyter notebooks for automating geotechnical modeling in **PLAXIS 3D** using Python scripting.  
@@ -80,5 +75,3 @@ Geotechnical engineer 😊 focused on automation, PLAXIS scripting, and making e
 ## 📄 License
 
 MIT License. See [LICENSE](LICENSE) for details.
-
-```
